@@ -166,3 +166,4 @@ Before making a pull request do the following steps:
 2. Run `dart analyze` to check that there are no analyzer issues.
 3. Run `dart test` to check that the tests pass.
 4. Run `dart run grinder all` to check that all targets build.
+Created by Jason Scott Heise
